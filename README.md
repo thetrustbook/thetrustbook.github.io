@@ -2,4 +2,5 @@
 
 Link to this website: [https://thetrustbook.github.io](https://thetrustbook.github.io/)
 
-[The Evolution of Trust](https://ncase.me/trust/)
+Sociery simulation tool:
+[The Evolution of Trust - https://ncase.me/trust/](https://ncase.me/trust/)
